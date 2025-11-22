@@ -3,6 +3,5 @@ Wiki-Format: zim 0.6
 Creation-Date: 2025-11-22T18:53:48+02:00
 
 ====== Mic dejun ======
-Creat(ă) sâmbătă 22 noiembrie 2025
 
 [[+ou-fiert|Ou fiert]]

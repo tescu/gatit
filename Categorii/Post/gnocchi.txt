@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-11-22T19:29:02+02:00
+
+====== gnocchi ======
+
+Gnocchi sunt un tip de paste pe bază de cartofi, ceea ce îi face o alternativă mai puțin balonantă la alte tipuri de paste. Sunt consistenți și pot fi prăjiți în ult și folosiți ca baza altor ingrediente.
+
+===== Ingrediente =====
+* cartofi
+* făină
+* (opțional) roșii
+* parmezan
+* unt
+* salvie (sau oregano, rozmarin etc.)
+* sare de mare (kosher)
+
+===== Instrucțiuni =====
+1. Fierbeți cartofii (cu coajă) până ajung destul de moi pentru a putea fi pisați.
+2. Tăiați cartofii în două bucăți și înlăturați-le coaja.
+3. Pisați și adăugați sare de mare (kosher) după gust.
+4. Adăugați gradual făina cât timp pisați și frământați până nu mai sunt vizibile bucațile de cartof și mixtura începe să aibă textura unui aluat.
+5. Puneți la fiert apă cu mai multă sare de mare.
+6. Presărați făină pe o suprafață de lucru, luați o bucată din aluat și întindeți-o pe suprafată în forma unui șarpe lung și dolofan.
+7. Tăiați aluatul întins în bucăți mai mici. Faceți o crestătură pe acestea cu degetul.
+8. Puneți bucățile obținute la fiert. Vor urca la suprafată când au fiert destul.
+9. Într-o tigaie, topiți o bucată de unt cu salvie (oregano sau rozmarin funcționează de-asemenea, dar au un gust mai puțin tradițional). Puteți folosi și suc de roșii pisate.
+10. Adăugați gnocchiul fiert în tigaie și rumeniți-l timp de 1-2 minute. Dacă se uscă tigaie, adaugați puțină apă de la paste.
+11. Serviți pe farfurie, împreună cu parmezan ras după pofta dvs. Se poate adăuga orice garnitură dorită.
+
+--------------------
+Autor original: [[https://lukesmith.xyz|Luke Smith]]
+Tradus de: [[https://negoitescu.org|tescu]]
