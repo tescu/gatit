@@ -2,9 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2025-11-22T19:29:02+02:00
 
-====== gnocchi ======
-
-Gnocchi sunt un tip de paste pe bază de cartofi, ceea ce îi face o alternativă mai puțin balonantă la alte tipuri de paste. Sunt consistenți și pot fi prăjiți în ult și folosiți ca baza altor ingrediente.
+====== Gnocchi ======
+Gnocchi sunt un tip de paste pe bază de cartofi, ceea ce îi face o alternativă mai puțin balonantă la alte tipuri de paste. Sunt consistenți și pot fi prăjiți în unt și folosiți ca baza altor ingrediente.
 
 ===== Ingrediente =====
 * cartofi

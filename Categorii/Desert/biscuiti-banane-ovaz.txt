@@ -2,8 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2025-11-22T19:00:38+02:00
 
-====== biscuiti-banane-ovaz ======
-
+====== Biscuiți cu banane și ovăz ======
 * Timp de pregătire: 3 minute
 * Timp de coacere: 20 minute
 * Porții: 3

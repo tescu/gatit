@@ -3,5 +3,4 @@ Wiki-Format: zim 0.6
 Creation-Date: 2025-11-22T19:28:02+02:00
 
 ====== Post ======
-
 [[+gnocchi|Gnocchi]]
