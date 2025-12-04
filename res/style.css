@@ -1,0 +1,36 @@
+:root {
+	--bg:#FFFFFF;
+	--fg:#1C1C18;
+	--bd:#8696A2;
+	--ln:#796848;
+	--hl:#C7B6AA;
+}
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg:#000000;
+		--fg:#FFFFFF;
+		--bd:#505050;
+		--ln:#C7B6AA;
+		--hl:#796848;
+	}
+}
+body {
+	background-color:var(--bg);
+	color:var(--fg);
+	font-family: sans-serif;
+	font-size: 1.1em;
+	line-height:1.5em;
+}
+#main {
+	max-width: 960px;
+	margin: auto;
+	background-color: var(--bg);
+}
+a {
+	color: var(--ln);
+	text-decoration: none;
+}
+a:hover {
+	color: var(--hl);
+	text-decoration:underline;
+}

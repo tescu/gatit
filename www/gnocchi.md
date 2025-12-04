@@ -1,11 +1,14 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-11-22T19:29:02+02:00
+---
+title: Gnocchi
+author: Luke Smith
+site: https://lukesmith.xyz
+category: post
+---
 
-====== Gnocchi ======
 Gnocchi sunt un tip de paste pe bază de cartofi, ceea ce îi face o alternativă mai puțin balonantă la alte tipuri de paste. Sunt consistenți și pot fi prăjiți în unt și folosiți ca baza altor ingrediente.
 
-===== Ingrediente =====
+## Ingrediente
+
 * cartofi
 * făină
 * (opțional) roșii
@@ -14,7 +17,8 @@ Gnocchi sunt un tip de paste pe bază de cartofi, ceea ce îi face o alternativ�
 * salvie (sau oregano, rozmarin etc.)
 * sare de mare (kosher)
 
-===== Instrucțiuni =====
+## Instrucțiuni
+
 1. Fierbeți cartofii (cu coajă) până ajung destul de moi pentru a putea fi pisați.
 2. Tăiați cartofii în două bucăți și înlăturați-le coaja.
 3. Pisați și adăugați sare de mare (kosher) după gust.
@@ -27,6 +31,4 @@ Gnocchi sunt un tip de paste pe bază de cartofi, ceea ce îi face o alternativ�
 10. Adăugați gnocchiul fiert în tigaie și rumeniți-l timp de 1-2 minute. Dacă se uscă tigaie, adaugați puțină apă de la paste.
 11. Serviți pe farfurie, împreună cu parmezan ras după pofta dvs. Se poate adăuga orice garnitură dorită.
 
---------------------
-Autor original: [[https://lukesmith.xyz|Luke Smith]]
-Tradus de: [[https://negoitescu.org|tescu]]
+<sup>Tradus de: [tescu](https://negoitescu.org)</sup>

@@ -1,19 +1,22 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-11-22T19:00:38+02:00
+---
+title: Biscuiți cu banane și ovăz
+author: anon
+category: desert
+---
 
-====== Biscuiți cu banane și ovăz ======
 * Timp de pregătire: 3 minute
 * Timp de coacere: 20 minute
 * Porții: 3
 
-===== Ingrediente =====
+## Ingrediente
+
 * 2 banane coapte (250g fără coajă)
 * 100g ovăz
 * 1 lingură pudră de scorțișoară (opțional, pt. gust)
 * 1 lingură miere (opțional, îndulcitor)
 
-===== Instrucțiuni =====
+## Instrucțiuni
+
 1. Preîncălziți cuptorul la 180°C.
 2. Decojiți bananele și pisați-le ușor într-un bol
 3. Încorporați ovăzul.
